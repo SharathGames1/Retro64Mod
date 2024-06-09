@@ -12,6 +12,7 @@ on:
     branches: [ master, 1.19 ]
   pull_request:
     branches: [ master, 1.19 ]
+  workflow_dispatch:
 
 permissions:
   contents: read
