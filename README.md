@@ -2,8 +2,6 @@
 This is the Minecraft side of the Retro64 mod - It also requires a native library, and an executable for audio support.
 Be aware that the code is currently messy, and needs a lot of polishing.
 
-For instructions on how to install the mod, watch this video [here](https://www.youtube.com/watch?v=2yWKqc2rmHI).
-
 # Status
 Mario's complete moveset including the BLJ is implemented.
 Mario can attack enemies, swim, travel between dimensions, take damage and heal with XP or water and more, he also has a first person mode making some of these easier.
